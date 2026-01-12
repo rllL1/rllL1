@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Ron
 
 I'm a **Full-Stack Developer & Designer** passionate about creating modern, responsive, and visually appealing web applications. I love turning ideas into functional solutions and bridging the gap between design and code.
-Portfolio:https://heyzportfolio.vercel.app/
 ---
 
 ## 🛠️ Technologies & Tools
