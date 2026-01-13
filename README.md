@@ -44,8 +44,8 @@ I'm a **Full-Stack Developer & Designer** passionate about creating modern, resp
 ## 📫 Contact Me
 
 - Email: arboisron2@gmail.com  
-- LinkedIn:[ [linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/YOUR_PROFILE)](https://www.linkedin.com/in/ron-hezykiel-arbois-5297b9297/)  
-- Portfolio: [[your-website.com](https://your-website.com)](https://heyzportfolio.vercel.app/)
+- LinkedIn:https://www.linkedin.com/in/YOUR_PROFILE)](https://www.linkedin.com/in/ron-hezykiel-arbois-5297b9297/)  
+- Portfolio: (https://heyzportfolio.vercel.app/)
 
 ---
 
