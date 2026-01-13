@@ -1,9 +1,4 @@
-# 👋 Hi, I'm Ron
-
-I'm a **Full-Stack Developer & Designer** passionate about creating modern, responsive, and visually appealing web applications. I love turning ideas into functional solutions and bridging the gap between design and code.
----
-
-## 🛠️ Technologies & Tools
+Technologies & Tools
 
 ### Programming Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
